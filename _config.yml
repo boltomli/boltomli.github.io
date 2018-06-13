@@ -42,6 +42,7 @@ roles:
 #List of interesting Github repo/projects to include - optional
 github:
  - boltomli/Data-for-CustomVoice.AI
- - boltomli/Neo4j-Flask-Solutions
  - boltomli/RESTfulSpeak
+ - boltomli/OCR-web-demo
  - boltomli/CustomLocale
+ - boltomli/Neo4j-Flask-Solutions
