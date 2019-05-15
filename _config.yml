@@ -16,18 +16,17 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - 代码
  - 难题攻关
  - 技术方案
  - 流程设计
 
 #Work experience is required
 roles:
- - title: 开发经理
+ - title: 部门经理
    start: 2015
    end: 至今
    employer: Wicresoft
-   description: 管理几十人团队，按客户方要求完成各个子项目。负责技术研发和审核。与客户和公司进行沟通，协调各个项目经理和主管的工作和人力等各项资源。
+   description: 管理多个小组（几十人规模团队），按客户方要求完成各个子项目。负责技术研发和审核。与客户和公司进行沟通，协调各个项目经理和主管的工作和人力等各项资源。
  - title: 开发主管
    start: 2011
    end: 2015
@@ -42,7 +41,9 @@ roles:
 #List of interesting Github repo/projects to include - optional
 github:
  - boltomli/Data-for-CustomVoice.AI
- - boltomli/RESTfulSpeak
- - boltomli/OCR-web-demo
  - boltomli/CustomLocale
  - boltomli/Neo4j-Flask-Solutions
+ - boltomli/tidy-text-mining-zh
+ - boltomli/speech-api
+ - boltomli/custom-voice-api
+ 
