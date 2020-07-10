@@ -41,9 +41,9 @@ roles:
 #List of interesting Github repo/projects to include - optional
 github:
  - boltomli/Data-for-CustomVoice.AI
- - boltomli/CustomLocale
- - boltomli/Neo4j-Flask-Solutions
+ - boltomli/MyShinyApps
  - boltomli/tidy-text-mining-zh
- - boltomli/speech-api
+ - boltomli/MyMacScripts
  - boltomli/custom-voice-api
+ - boltomli/Flower-of-Cities-All
  
