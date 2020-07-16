@@ -22,11 +22,16 @@ skills:
 
 #Work experience is required
 roles:
+ - title: 技术总监（兼）
+   start: 2018
+   end: 至今
+   employer: Wicresoft
+   description: 兼任人工智能语音团队技术总监，负责技术方案的调研、开发、实施、审核等。
  - title: 部门经理
    start: 2015
    end: 至今
    employer: Wicresoft
-   description: 管理多个小组（几十人规模团队），按客户方要求完成各个子项目。负责技术研发和审核。与客户和公司进行沟通，协调各个项目经理和主管的工作和人力等各项资源。
+   description: 管理人工智能语音团队的多个小组（几十人规模），按客户方要求完成各个子项目。与客户和公司进行沟通，协调各个项目经理和主管的工作分配和资源安排等。
  - title: 开发主管
    start: 2011
    end: 2015
@@ -46,4 +51,3 @@ github:
  - boltomli/MyMacScripts
  - boltomli/custom-voice-api
  - boltomli/Flower-of-Cities-All
- 
