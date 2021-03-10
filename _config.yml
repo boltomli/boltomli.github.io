@@ -22,7 +22,7 @@ skills:
 
 #Work experience is required
 roles:
- - title: 技术总监（兼）
+ - title: 技术总监
    start: 2018
    end: 至今
    employer: Wicresoft
@@ -48,6 +48,6 @@ github:
  - boltomli/Data-for-CustomVoice.AI
  - boltomli/MyShinyApps
  - boltomli/tidy-text-mining-zh
- - boltomli/MyMacScripts
+ - boltomli/fuzz-ssml-rest
  - boltomli/custom-voice-api
- - boltomli/Flower-of-Cities-All
+ - boltomli/shiny-speech
