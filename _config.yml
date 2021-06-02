@@ -22,9 +22,14 @@ skills:
 
 #Work experience is required
 roles:
+ - title: 架构师
+   start: 2021
+   end: 至今
+   employer: Xiaoice
+   description: 人工智能语音产品研发。
  - title: 技术总监
    start: 2018
-   end: 至今
+   end: 2021
    employer: Wicresoft
    description: 兼任人工智能语音团队技术总监，负责技术方案的调研、开发、实施、审核等。
  - title: 部门经理
